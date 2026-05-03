@@ -25,6 +25,14 @@ This app is deployed using Streamlit Community Cloud.
 2. Connect your repository to Streamlit Cloud
 3. Deploy your app
 
+# 📂 Project Structure
+**RPS/**
+│── app.py
+│── rock.jpeg
+│── paper.jpeg
+│── scissor.jpeg
+│── README.md
+
 # 📈 Learning Outcomes
 1. Built an interactive web app using Streamlit
 2. Implemented game logic in Python
