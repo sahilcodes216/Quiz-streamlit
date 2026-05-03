@@ -27,10 +27,10 @@ This app is deployed using Streamlit Community Cloud.
 
 # 📂 Project Structure
 **RPS/**
-│── app.py
-│── rock.jpeg
-│── paper.jpeg
-│── scissor.jpeg
+│── app.py<br>
+│── rock.jpeg<br>
+│── paper.jpeg<br>
+│── scissor.jpeg<br>
 │── README.md
 
 # 📈 Learning Outcomes
