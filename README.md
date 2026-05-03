@@ -6,11 +6,11 @@ This project demonstrates how basic Python logic can be transformed into a live 
 🔗 https://srps-demo-stonepaperscis.streamlit.app/
 
 # 📌 Features
-**🎮 Interactive user interface**
-**🤖 Play against the computer**
-**⚡ Real-time game logic**
-**📊 Instant result display (Win / Lose / Tie)**
-**🌐 Accessible via web browser**
+- **🎮 Interactive user interface**
+- **🤖 Play against the computer**
+- **⚡ Real-time game logic**
+- **📊 Instant result display (Win / Lose / Tie)**
+- **🌐 Accessible via web browser**
 
 # 🛠️ Tech Stack
 - **Python**
