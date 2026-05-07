@@ -39,4 +39,4 @@ This app is deployed using Streamlit Community Cloud.
 3. Learned basic deployment process
 
 # 👨‍💻 Author
-- Sahil Verma
+- **Sahil Verma**
