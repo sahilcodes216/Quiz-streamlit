@@ -37,3 +37,6 @@ This app is deployed using Streamlit Community Cloud.
 1. Built an interactive web app using Streamlit
 2. Implemented game logic in Python
 3. Learned basic deployment process
+
+# 👨‍💻 Author
+- Sahil Verma
